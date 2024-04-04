@@ -9,4 +9,4 @@ github pages repo for The Feast Dev
 
 [markdown editor](https://stackedit.io/app)
 
-shoutout to [baselayer](https://thisanimus.github.io/baselayer.css/) or themez
+shoutout to [baselayer](https://thisanimus.github.io/baselayer.css/) for themez
