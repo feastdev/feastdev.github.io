@@ -19,11 +19,9 @@
   * **AG -** Guitarist
   * **MD/Keys -** Keyboardist
 
-<hr>
-<div class="label" id="typography">
-Music Direction
-</div>
-<br>
+
+
+
 
 ### Worship: Artist - Song 1
 1. Reference
@@ -81,4 +79,5 @@ Music Direction
   * [Verse 2] All-in Unison
   * [Chorus] All-in Split
   * [Outro] End Swell
+
 
