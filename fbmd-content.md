@@ -19,6 +19,12 @@
  * **AG -** Guitarist
  * **MD/Keys -** Keyboardist
 
+<hr>
+<div class="label" id="typography">
+Music Direction
+</div>
+<br>
+
 ### Worship: Artist - Song 1
 1. Reference
  * [Youtube Video Title](https://www.youtube.com/watch?v=W-KGYUStvOM)
